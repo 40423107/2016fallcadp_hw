@@ -10,7 +10,10 @@
 &lt;p&gt;協同產品設計=computer,network,tools,project&lt;/p&gt;
 &lt;p&gt;工業4.0=客製化,體貼&lt;/p&gt;
 &lt;p&gt;設proxy=proxy.mde.tw 3128&lt;/p&gt;
-&lt;p&gt;近端裝pelican: pip install pelican&lt;/p&gt;</summary><category term="w4"></category></entry><entry><title>2016.09.29第三週</title><link href="./20160929di-san-zhou.html" rel="alternate"></link><published>2016-09-29T00:00:00+08:00</published><updated>2016-09-29T00:00:00+08:00</updated><author><name>40423107史育澤</name></author><id>tag:,2016-09-29:./20160929di-san-zhou.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;近端裝pelican: pip install pelican&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/185638331" width="640" height="362" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/185638331"&gt;錄製_2016_10_05_20_33_32_543&lt;/a&gt; from &lt;a href="https://vimeo.com/user45320873"&gt;史育澤&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="w4"></category></entry><entry><title>2016.10.06第四週</title><link href="./20161006di-si-zhou.html" rel="alternate"></link><published>2016-10-06T00:00:00+08:00</published><updated>2016-10-06T00:00:00+08:00</updated><author><name>40423107史育澤</name></author><id>tag:,2016-10-06:./20161006di-si-zhou.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</summary><category term="w4"></category></entry><entry><title>2016.09.29第三週</title><link href="./20160929di-san-zhou.html" rel="alternate"></link><published>2016-09-29T00:00:00+08:00</published><updated>2016-09-29T00:00:00+08:00</updated><author><name>40423107史育澤</name></author><id>tag:,2016-09-29:./20160929di-san-zhou.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;先到 https://github.com/mdecourse/2016fallcadp/wiki/Solvespace_Parts 了解這篇文章&lt;/p&gt;
 &lt;p&gt;diameter直徑 oriented定位 respectively分別 plane面 equivalent相當地 construct建構 Zoom放大&lt;/p&gt;
@@ -69,7 +72,10 @@
 &lt;p&gt;7.在 40423125.github.io倉儲的左上角有一個 Create new file點進去
 新增40423125.github.io.index.html 就會有自己的網頁了&lt;/p&gt;
 &lt;p&gt;8.進入 https://github.com/mdecourse/2016fallcadp/wiki 的上課筆記 &lt;br /&gt;
-下載繪圖軟體練習零件繪製: http://solvespace.com/bracket.pl&lt;/p&gt;</summary><category term="w2"></category></entry><entry><title>2016.09.15第一週</title><link href="./20160915di-yi-zhou.html" rel="alternate"></link><published>2016-09-15T00:00:00+08:00</published><updated>2016-09-15T00:00:00+08:00</updated><author><name>40423107史育澤</name></author><id>tag:,2016-09-15:./20160915di-yi-zhou.html</id><summary type="html">&lt;p&gt;中秋節快樂&lt;/p&gt;
+下載繪圖軟體練習零件繪製: http://solvespace.com/bracket.pl&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/187777039" width="640" height="362" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/187777039"&gt;錄製_2016_10_18_14_04_37_898&lt;/a&gt; from &lt;a href="https://vimeo.com/user45320873"&gt;史育澤&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="w2"></category></entry><entry><title>2016.09.15第一週</title><link href="./20160915di-yi-zhou.html" rel="alternate"></link><published>2016-09-15T00:00:00+08:00</published><updated>2016-09-15T00:00:00+08:00</updated><author><name>40423107史育澤</name></author><id>tag:,2016-09-15:./20160915di-yi-zhou.html</id><summary type="html">&lt;p&gt;中秋節快樂&lt;/p&gt;
 </summary><category term="w1"></category></entry><entry><title>2016Fall 簡報與網誌系統</title><link href="./2016fall-jian-bao-yu-wang-zhi-xi-tong.html" rel="alternate"></link><published>2016-09-02T12:00:00+08:00</published><updated>2016-09-02T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-02:./2016fall-jian-bao-yu-wang-zhi-xi-tong.html</id><summary type="html">&lt;p&gt;這個系統共集結了 reveal.js 網際簡報與 pelican 靜態網誌系統.&lt;/p&gt;
 
 
