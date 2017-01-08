@@ -112,6 +112,8 @@
 <v t="leo.20161130194831.1"><vh>@edit 20161124.md</vh></v>
 <v t="leo.20161215153008.1"><vh>@edit 20161201.md</vh></v>
 <v t="leo.20161215153011.1"><vh>@edit 20161215.md</vh></v>
+<v t="leo.20170108131229.1"><vh>@edit 20161222.md</vh></v>
+<v t="leo.20170108131327.1"><vh>@edit 20161229.md</vh></v>
 </v>
 </v>
 </v>
@@ -121,6 +123,152 @@
 </v>
 </v>
 <v t="amd.20161004202833.1"><vh>@edit ../README.md</vh></v>
+<v t="leo.20170108131157.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170108131157.3"><vh>Recovered node "body" from @clean index.html</vh>
+<v t="leo.20170108131157.4"><vh>old:body</vh></v>
+<v t="leo.20170108131157.5"><vh>new:body</vh></v>
+</v>
+<v t="leo.20170108131157.6"><vh>Recovered node "三大主題教學" from @clean index.html</vh>
+<v t="leo.20170108131157.7"><vh>old:三大主題教學</vh></v>
+<v t="leo.20170108131157.8"><vh>new:三大主題教學</vh></v>
+</v>
+<v t="leo.20170108131157.9"><vh>Recovered node "主題教學" from @clean index.html</vh>
+<v t="leo.20170108131157.10"><vh>old:主題教學</vh></v>
+<v t="leo.20170108131157.11"><vh>new:主題教學</vh></v>
+</v>
+<v t="leo.20170108131157.12"><vh>Recovered node "機械設計主題教學" from @clean index.html</vh>
+<v t="leo.20170108131157.13"><vh>old:機械設計主題教學</vh></v>
+<v t="leo.20170108131157.14"><vh>new:機械設計主題教學</vh></v>
+</v>
+<v t="leo.20170108131157.15"><vh>Recovered node "創造力元素" from @clean index.html</vh>
+<v t="leo.20170108131157.16"><vh>old:創造力元素</vh></v>
+<v t="leo.20170108131157.17"><vh>new:創造力元素</vh></v>
+</v>
+<v t="leo.20170108131157.18"><vh>Recovered node "創造能力三元素" from @clean index.html</vh>
+<v t="leo.20170108131157.19"><vh>old:創造能力三元素</vh></v>
+<v t="leo.20170108131157.20"><vh>new:創造能力三元素</vh></v>
+</v>
+<v t="leo.20170108131157.21"><vh>Recovered node "六種表達" from @clean index.html</vh>
+<v t="leo.20170108131157.22"><vh>old:六種表達</vh></v>
+<v t="leo.20170108131157.23"><vh>new:六種表達</vh></v>
+</v>
+<v t="leo.20170108131157.24"><vh>Recovered node "創造能力三元素" from @clean index.html</vh>
+<v t="leo.20170108131157.25"><vh>old:創造能力三元素</vh></v>
+<v t="leo.20170108131157.26"><vh>new:創造能力三元素</vh></v>
+</v>
+<v t="leo.20170108131157.27"><vh>Recovered node "協同設計" from @clean index.html</vh>
+<v t="leo.20170108131157.28"><vh>old:協同設計</vh></v>
+<v t="leo.20170108131157.29"><vh>new:協同設計</vh></v>
+</v>
+<v t="leo.20170108131157.30"><vh>Recovered node "融入協同設計" from @clean index.html</vh>
+<v t="leo.20170108131157.31"><vh>old:融入協同設計</vh></v>
+<v t="leo.20170108131157.32"><vh>new:融入協同設計</vh></v>
+</v>
+<v t="leo.20170108131157.33"><vh>Recovered node "MD 投影片 (標題)" from @clean index.html</vh>
+<v t="leo.20170108131157.34"><vh>old:MD 投影片 (標題)</vh></v>
+<v t="leo.20170108131157.35"><vh>new:MD 投影片 (標題)</vh></v>
+</v>
+<v t="leo.20170108131157.36"><vh>Recovered node "利用 MD 寫內容" from @clean index.html</vh>
+<v t="leo.20170108131157.37"><vh>old:利用 MD 寫內容</vh></v>
+<v t="leo.20170108131157.38"><vh>new:利用 MD 寫內容</vh></v>
+</v>
+<v t="leo.20170108131157.39"><vh>Recovered node "計算機程式課程內涵" from @clean index.html</vh>
+<v t="leo.20170108131157.40"><vh>old:計算機程式課程內涵</vh></v>
+<v t="leo.20170108131157.41"><vh>new:計算機程式課程內涵</vh></v>
+</v>
+<v t="leo.20170108131157.42"><vh>Recovered node "利用 MD 寫內容" from @clean index.html</vh>
+<v t="leo.20170108131157.43"><vh>old:利用 MD 寫內容</vh></v>
+<v t="leo.20170108131157.44"><vh>new:利用 MD 寫內容</vh></v>
+</v>
+<v t="leo.20170108131157.45"><vh>Recovered node "github intro" from @clean index.html</vh>
+<v t="leo.20170108131157.46"><vh>old:github intro</vh></v>
+<v t="leo.20170108131157.47"><vh>new:github intro</vh></v>
+</v>
+<v t="leo.20170108131157.48"><vh>Recovered node "fork 與 pull requests" from @clean index.html</vh>
+<v t="leo.20170108131157.49"><vh>old:fork 與 pull requests</vh></v>
+<v t="leo.20170108131157.50"><vh>new:fork 與 pull requests</vh></v>
+</v>
+<v t="leo.20170108131157.51"><vh>Recovered node "投影片" from @clean index.html</vh>
+<v t="leo.20170108131157.52"><vh>old:投影片</vh></v>
+<v t="leo.20170108131157.53"><vh>new:投影片</vh></v>
+</v>
+<v t="leo.20170108131157.54"><vh>Recovered node "使用 iframe 嵌入影片連節" from @clean index.html</vh>
+<v t="leo.20170108131157.55"><vh>old:使用 iframe 嵌入影片連節</vh></v>
+<v t="leo.20170108131157.56"><vh>new:使用 iframe 嵌入影片連節</vh></v>
+</v>
+<v t="leo.20170108131157.57"><vh>Recovered node "iframe 導入影片" from @clean index.html</vh>
+<v t="leo.20170108131157.58"><vh>old:iframe 導入影片</vh></v>
+<v t="leo.20170108131157.59"><vh>new:iframe 導入影片</vh></v>
+</v>
+<v t="leo.20170108131157.60"><vh>Recovered node "向下投影片" from @clean index.html</vh>
+<v t="leo.20170108131157.61"><vh>old:向下投影片</vh></v>
+<v t="leo.20170108131157.62"><vh>new:向下投影片</vh></v>
+</v>
+<v t="leo.20170108131157.63"><vh>Recovered node "Markdown 投影片" from @clean index.html</vh>
+<v t="leo.20170108131157.64"><vh>old:Markdown 投影片</vh></v>
+<v t="leo.20170108131157.65"><vh>new:Markdown 投影片</vh></v>
+</v>
+<v t="leo.20170108131157.66"><vh>Recovered node "利用 MD 寫內容" from @clean index.html</vh>
+<v t="leo.20170108131157.67"><vh>old:利用 MD 寫內容</vh></v>
+<v t="leo.20170108131157.68"><vh>new:利用 MD 寫內容</vh></v>
+</v>
+<v t="leo.20170108131157.69"><vh>Recovered node "Markdown 投影片" from @clean index.html</vh>
+<v t="leo.20170108131157.70"><vh>old:Markdown 投影片</vh></v>
+<v t="leo.20170108131157.71"><vh>new:Markdown 投影片</vh></v>
+</v>
+<v t="leo.20170108131157.72"><vh>Recovered node "MD 投影片內容" from @clean index.html</vh>
+<v t="leo.20170108131157.73"><vh>old:MD 投影片內容</vh></v>
+<v t="leo.20170108131157.74"><vh>new:MD 投影片內容</vh></v>
+</v>
+<v t="leo.20170108131157.75"><vh>Recovered node "Markdown 投影片" from @clean index.html</vh>
+<v t="leo.20170108131157.76"><vh>old:Markdown 投影片</vh></v>
+<v t="leo.20170108131157.77"><vh>new:Markdown 投影片</vh></v>
+</v>
+<v t="leo.20170108131157.78"><vh>Recovered node "MD 投影片內容" from @clean index.html</vh>
+<v t="leo.20170108131157.79"><vh>old:MD 投影片內容</vh></v>
+<v t="leo.20170108131157.80"><vh>new:MD 投影片內容</vh></v>
+</v>
+<v t="leo.20170108131157.81"><vh>Recovered node "Markdown 投影片" from @clean index.html</vh>
+<v t="leo.20170108131157.82"><vh>old:Markdown 投影片</vh></v>
+<v t="leo.20170108131157.83"><vh>new:Markdown 投影片</vh></v>
+</v>
+<v t="leo.20170108131157.84"><vh>Recovered node "MD 投影片內容" from @clean index.html</vh>
+<v t="leo.20170108131157.85"><vh>old:MD 投影片內容</vh></v>
+<v t="leo.20170108131157.86"><vh>new:MD 投影片內容</vh></v>
+</v>
+<v t="leo.20170108131157.87"><vh>Recovered node "Markdown 投影片" from @clean index.html</vh>
+<v t="leo.20170108131157.88"><vh>old:Markdown 投影片</vh></v>
+<v t="leo.20170108131157.89"><vh>new:Markdown 投影片</vh></v>
+</v>
+<v t="leo.20170108131157.90"><vh>Recovered node "MD 投影片內容" from @clean index.html</vh>
+<v t="leo.20170108131157.91"><vh>old:MD 投影片內容</vh></v>
+<v t="leo.20170108131157.92"><vh>new:MD 投影片內容</vh></v>
+</v>
+<v t="leo.20170108131157.93"><vh>Recovered node "引用程式碼" from @clean index.html</vh>
+<v t="leo.20170108131157.94"><vh>old:引用程式碼</vh></v>
+<v t="leo.20170108131157.95"><vh>new:引用程式碼</vh></v>
+</v>
+<v t="leo.20170108131157.96"><vh>Recovered node "無序表列" from @clean index.html</vh>
+<v t="leo.20170108131157.97"><vh>old:無序表列</vh></v>
+<v t="leo.20170108131157.98"><vh>new:無序表列</vh></v>
+</v>
+<v t="leo.20170108131157.99"><vh>Recovered node "有序表列" from @clean index.html</vh>
+<v t="leo.20170108131157.100"><vh>old:有序表列</vh></v>
+<v t="leo.20170108131157.101"><vh>new:有序表列</vh></v>
+</v>
+<v t="leo.20170108131157.102"><vh>Recovered node "轉為 PDF 檔案" from @clean index.html</vh>
+<v t="leo.20170108131157.103"><vh>old:轉為 PDF 檔案</vh></v>
+<v t="leo.20170108131157.104"><vh>new:轉為 PDF 檔案</vh></v>
+</v>
+<v t="leo.20170108131157.105"><vh>Recovered node "全域狀態應用" from @clean index.html</vh>
+<v t="leo.20170108131157.106"><vh>old:全域狀態應用</vh></v>
+<v t="leo.20170108131157.107"><vh>new:全域狀態應用</vh></v>
+</v>
+<v t="leo.20170108131157.108"><vh>Recovered node "狀態事件應用" from @clean index.html</vh>
+<v t="leo.20170108131157.109"><vh>old:狀態事件應用</vh></v>
+<v t="leo.20170108131157.110"><vh>new:狀態事件應用</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="amd.20151215170031.1"></t>
@@ -162,100 +310,22 @@ print("hello")
 @others
 &lt;/html&gt;
 </t>
-<t tx="amd.20161004083800.110">&lt;section&gt;
-    &lt;h2&gt;Pretty Code&lt;/h2&gt;
-    &lt;pre&gt;
-        &lt;code class="hljs" data-trim contenteditable&gt;
-        function linkify( selector ) {
-          if( supports3DTransforms ) {
-        
-            var nodes = document.querySelectorAll( selector );
-        
-            for( var i = 0, len = nodes.length; i &amp;lt; len; i++ ) {
-              var node = nodes[i];
-        
-              if( !node.className ) {
-                node.className += ' roll';
-              }
-            }
-          }
-        }
-        &lt;/code&gt;
-    &lt;/pre&gt;
-    &lt;p&gt;
-    Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft/highlight/en/description/"&gt;highlight.js&lt;/a&gt;.
-    &lt;/p&gt;
-&lt;/section&gt;
-			
-</t>
-<t tx="amd.20161004083800.115">&lt;section&gt;	
-    &lt;h2&gt;Marvelous List&lt;/h2&gt;
-    &lt;ul&gt;
-    &lt;li&gt;No order here&lt;/li&gt;
-    &lt;li&gt;Or here&lt;/li&gt;
-    &lt;li&gt;Or here&lt;/li&gt;
-    &lt;li&gt;Or here&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/section&gt;
+<t tx="amd.20161004083800.110"></t>
+<t tx="amd.20161004083800.115"></t>
+<t tx="amd.20161004083800.121"></t>
+<t tx="amd.20161004083800.15">
 
-					
-</t>
-<t tx="amd.20161004083800.121">&lt;section&gt;
-    &lt;h2&gt;Fantastic Ordered List&lt;/h2&gt;
-    &lt;ol&gt;
-    &lt;li&gt;One is smaller than...&lt;/li&gt;
-    &lt;li&gt;Two is smaller than...&lt;/li&gt;
-    &lt;li&gt;Three!&lt;/li&gt;
-    &lt;/ol&gt;
 &lt;/section&gt;
+&lt;section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+######2016.10.27
 
 
-					
 </t>
-<t tx="amd.20161004083800.15">&lt;section&gt;
-    &lt;h2&gt;github_intro&lt;/h2&gt;
-    &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-    &lt;p&gt;
-    &lt;a href="https://vimeo.com/183950627"&gt;2016-09-23_cpb_github_intro&lt;/a&gt; from 
-    &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程&lt;/a&gt; on 
-    &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.
-    &lt;/p&gt;
-&lt;/section&gt;
-</t>
-<t tx="amd.20161004083800.158">&lt;section&gt;
-    &lt;h2&gt;Export to PDF&lt;/h2&gt;
-    &lt;p&gt;
-    Presentations can be &lt;a href="https://github.com/hakimel/reveal.js#pdf-export"&gt;exported to PDF&lt;/a&gt;, here's an example:
-    &lt;/p&gt;	
-    &lt;iframe data-src="https://www.slideshare.net/slideshow/embed_code/42840540" width="445" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
-&lt;/section&gt;				
-</t>
-<t tx="amd.20161004083800.162">&lt;section&gt;
-&lt;h2&gt;Global State&lt;/h2&gt;
-&lt;p&gt;
-Set &lt;code&gt;data-state="something"&lt;/code&gt; on a slide and 
-&lt;code&gt;"something"&lt;/code&gt;
-will be added as a class to the document element when the slide is open. This lets you
-apply broader style changes, like switching the page background.
-&lt;/p&gt;
-&lt;/section&gt;
-
-		
-</t>
-<t tx="amd.20161004083800.166">&lt;section data-state="customevent"&gt;	
-    &lt;h2&gt;State Events&lt;/h2&gt;
-    &lt;p&gt;
-    Additionally custom events can be triggered on a per slide basis by binding to the &lt;code&gt;data-state&lt;/code&gt; name.
-    &lt;/p&gt;
-    &lt;pre&gt;
-        &lt;code class="javascript" data-trim contenteditable style="font-size: 18px;"&gt;
-        Reveal.addEventListener( 'customevent', function() {
-            console.log( '"customevent" has fired' );
-        } );
-        &lt;/code&gt;
-    &lt;/pre&gt;
-&lt;/section&gt;					
-</t>
+<t tx="amd.20161004083800.158"></t>
+<t tx="amd.20161004083800.162"></t>
+<t tx="amd.20161004083800.166"></t>
 <t tx="amd.20161004083800.2">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
@@ -290,29 +360,29 @@ apply broader style changes, like switching the page background.
 &lt;/head&gt;
 
 </t>
-<t tx="amd.20161004083800.21">&lt;section&gt;
-    &lt;h2&gt;fork_pull_requests&lt;/h2&gt;
-    &lt;iframe src="https://player.vimeo.com/video/183954581" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-    &lt;p&gt;
-    &lt;a href="https://vimeo.com/183954581"&gt;2016-09-23_fork_pull_requests&lt;/a&gt; from 
-    &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程&lt;/a&gt; on 
-    &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.
-    &lt;/p&gt;
-&lt;/section&gt;
-</t>
-<t tx="amd.20161004083800.27">&lt;!-- Example of nested vertical slides --&gt;
-&lt;section&gt;
-@others
-&lt;/section&gt;
-</t>
-<t tx="amd.20161004083800.47">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
+<t tx="amd.20161004083800.21">
     &lt;/script&gt;
 &lt;/section&gt;
 
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;今天學習用 solve path畫四連桿機構&lt;/p&gt;
 
-						
+&lt;p&gt;其實還蠻有趣的呢&lt;/p&gt;
+</t>
+<t tx="amd.20161004083800.27">
+&lt;p&gt;可以利用一個很簡單的程式&lt;/p&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="amd.20161004083800.47">
+
+@others
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
 </t>
 <t tx="amd.20161004083800.5">&lt;body&gt;
 @others
@@ -325,9 +395,7 @@ apply broader style changes, like switching the page background.
             progress: true,
             history: true,
             center: true,
-
             transition: 'slide', // none/fade/slide/convex/concave/zoom
-
             // More info https://github.com/hakimel/reveal.js#dependencies
             dependencies: [
                 { src: 'https://cad-lab.github.io/cadlab_data/reveal/lib/js/classList.js', condition: function() { return !document.body.classList; } },
@@ -366,98 +434,92 @@ apply broader style changes, like switching the page background.
     &lt;a href="blog/index.html"&gt;blog&lt;/a&gt;
 &lt;/section&gt;
 </t>
-<t tx="amd.20161004085439.1">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;
-    Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.
-    &lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;
-</t>
-<t tx="amd.20161004092208.1">## Markdown support
-
-Write content using inline or external Markdown.
-Instructions and more info available in the [readme](https://github.com/hakimel/reveal.js#markdown).
-
-```
+<t tx="amd.20161004085439.1">&lt;/section&gt;
+&lt;section&gt;
 &lt;section data-markdown&gt;
-  ## Markdown support
-
-  Write content using inline or external Markdown.
-  Instructions and more info available in the [readme](https://github.com/hakimel/reveal.js#markdown).
-&lt;/section&gt;
-```
-</t>
-<t tx="amd.20161004094125.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
+######2016.11.03
+&lt;p&gt;自評週&lt;/p&gt;
+
+
+
+
+    &lt;/script&gt;
+</t>
+<t tx="amd.20161004092208.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;今天要自評 &lt;/p&gt;
+
+
+
     &lt;/script&gt;
 &lt;/section&gt;
 
 
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 
-						
 </t>
-<t tx="amd.20161004094125.2">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
+<t tx="amd.20161004094125.1">
+&lt;/section&gt;
+&lt;section&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+
+</t>
+<t tx="amd.20161004094125.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+######2016.11.09
 @language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
+&lt;p&gt;ONSHAPE圖&lt;/p&gt;
 
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="amd.20161004094800.1">&lt;section data-markdown&gt;
+
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
+&lt;p&gt;今天畫圖 &lt;/p&gt;
+
+
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+
+</t>
+<t tx="amd.20161004094800.1">
+    &lt;/script&gt;
+&lt;/section&gt;
 @others
+</t>
+<t tx="amd.20161004094800.2">
+
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+
+
     &lt;/script&gt;
 &lt;/section&gt;
 
 
 
-						
-</t>
-<t tx="amd.20161004094800.2"># h1 標題
 
-段落用空白行隔開
 
-第2段. *斜體*, **粗體**, 條列:
 
-  * 第1項
-  * 第2項
-  * 第3項
-
-上述條列, 星號前有3個空白
-
-&gt; 引言則前面加上大於的符號
-&gt; 其中也可以包含空白行
-&gt;
-&gt; 這是最後一行
+&lt;/section&gt;
 </t>
 <t tx="amd.20161004095719.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -479,55 +541,41 @@ Created by [40423107](http://hakim.se)
 
 [blog](blog/index.html)
 </t>
-<t tx="amd.20161004100003.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
+<t tx="amd.20161004100003.1">@others
+</t>
+<t tx="amd.20161004100003.2"></t>
+<t tx="amd.20161004101327.1">    &lt;script type="text/template"&gt;
+&lt;img src="http://i.imgur.com/vLLN4Dg.jpg" width="50%" height="50%"&gt;
 @others
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+######2016.10.20
+
+
+</t>
+<t tx="amd.20161004101327.2">
+    &lt;/script&gt;
+&lt;/section&gt;
+&lt;/section&gt;
+&lt;section&gt;
+</t>
+<t tx="amd.20161004101902.1">
+&lt;p&gt;就可以學習到四連桿作動的軌跡!!&lt;/p&gt;
+@others
+    
+
     &lt;/script&gt;
 &lt;/section&gt;
 
-
-
-						
 </t>
-<t tx="amd.20161004100003.2"># 影像檔案引用
-
-and images can be specified like so:
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-</t>
-<t tx="amd.20161004101327.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
+<t tx="amd.20161004101902.2">    &lt;/script&gt;
 &lt;/section&gt;
 
-
-						
-</t>
-<t tx="amd.20161004101327.2">## 使用 iframe 導入影片
-
-### Markdown 沒有 iframe
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
-<t tx="amd.20161004101902.1">&lt;section data-markdown&gt;
+&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
 </t>
-<t tx="amd.20161004101902.2">## 使用 iframe 導入影片
-
-### Markdown 沒有 iframe
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
-<t tx="amd.20161004104641.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="amd.20161004104641.1">
+	&lt;section data-markdown&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
@@ -535,119 +583,244 @@ and images can be specified like so:
 
 						
 </t>
-<t tx="amd.20161004104641.2"># 機械設計主題教學
+<t tx="amd.20161004104641.2">    &lt;script type="text/template"&gt;
+###2016.09.15
 
-### 1. 強化創造能力 
-(Creative Competencies, CC1-3)
-### 2. 熟習六種表達 
-(Six Presentation Methods, SP1-6)
-### 3. 融入協同設計 
-(Collaborative Designs, CD1-4)
+
 
 </t>
 <t tx="amd.20161004104820.1">&lt;section&gt;
 @others
-&lt;/section&gt;
+&lt;section data-markdown&gt;
 </t>
-<t tx="amd.20161004104904.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="amd.20161004104904.1">&lt;/section&gt;
+&lt;section&gt;
 @others
+
     &lt;/script&gt;
 &lt;/section&gt;
 
 
-						
-</t>
-<t tx="amd.20161004104904.2"># 強化創造能力
 
-創造力至少包含三種元素:
-### 1. 自學能力 (CC1, Self-learning)
-### 2. 程式能力 (CC2, Programming)
-### 3. 想像能力 (CC3, Imagination)
-
-</t>
-<t tx="amd.20161004105131.1">&lt;section data-markdown&gt;
+&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
-@others
+
+
+
     &lt;/script&gt;
 &lt;/section&gt;
 
 
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;1.先到 https://github.com/mdecourse 的 2016cadp 按 Fork&lt;/p&gt;
+
+&lt;p&gt;2.在自己的github帳號創立一個 2016fallcadp_hw倉儲 把最下面的 Add.gitignore輸入 Python Add a license輸入 Agpl&lt;/p&gt;
+
+&lt;p&gt;3.在 2016fallcadp_hw倉儲 建立gh-pages分支&lt;/p&gt;
+
+&lt;p&gt;4.按上方的一個setting-branches-選擇gh-pages&lt;/p&gt;
+
+&lt;p&gt;5.在系上的電腦 輸入 140.130.17.17/2016fall 下載近端的python&lt;/p&gt;
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;6.在自己的帳號建立 40423107.github.io 說明打 my home page 把最下面的 Add.gitignore輸入 Python Add a license輸入 Agpl&lt;/p&gt;
+
+&lt;p&gt;7.在 40423107.github.io倉儲的左上角有一個 Create new file點進去 新增40423107.github.io.index.html 就會有自己的網頁了&lt;/p&gt;
+
+&lt;p&gt;8.進入 https://github.com/mdecourse/2016fallcadp/wiki 的上課筆記&lt;/p&gt;
+
+&lt;p&gt;下載繪圖軟體練習零件繪製: http://solvespace.com/bracket.pl &lt;/p&gt;
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
 						
 </t>
-<t tx="amd.20161004105131.2"># 機械設計六種表達
+<t tx="amd.20161004104904.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+###2016.09.22
 
-### 1. 口語表達 (SP1, Oral Presentation)
-### 2. 文字表達 (SP2, Text Presentation)
-### 3. 2D 表達 (SP3, 2D Presentation)
-### 4. 3D 表達 (SP4, 3D Presentation)
-### 5. 理論表達 (SP5, Analytical Presentation)
-### 6. 實體表達 (SP6, Physical Presentation)
+######創好自己的2016fallcadp_hw
 
+
+</t>
+<t tx="amd.20161004105131.1">&lt;/section&gt;
+&lt;section&gt;
+@others
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;先到 https://github.com/mdecourse/2016fallcadp/wiki/Solvespace_Parts 了解這篇文章&lt;/p&gt;
+&lt;p&gt;名詞定義&lt;/p&gt;
+&lt;p&gt;diameter直徑 oriented定位 respectively分別 plane面 equivalent相當地 construct建構 Zoom放大&lt;/p&gt;
+
+&lt;p&gt;mounting套、掛 axes軸(s) Initially原來 empty空 extruding擠壓 gusset扣板 sketch草圖 profile輪廓&lt;/p&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;segments段 radiused圓角 automatically自動 consists由 coincident一致 achieve達成 horizontal橫&lt;/p&gt;
+
+&lt;p&gt;references引用 modified改性 hover徘徊 perpendicular垂直 transparent透明&lt;/p&gt;
+&lt;/script&gt;
+&lt;/section&gt;
+
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+
+
+		
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+&lt;/section&gt;
+&lt;section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+######2016.10.06
+
+
+
+    &lt;/script&gt;
+&lt;/section&gt;		
+
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+
+&lt;p&gt;機械設計系的目標:&lt;/p&gt;
+
+&lt;p&gt;培養具創造力 精通表達&lt;/p&gt;
+
+&lt;p&gt;能積極配合 偕同產品設計流程的機械設計工程師&lt;/p&gt;
+
+&lt;p&gt;創造力=自學力+程式力+想像力&lt;/p&gt;
+
+ &lt;/script&gt;
+&lt;/section&gt;	
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;表達=oral,text,2D,3D,analytical,physical&lt;/p&gt;
+
+&lt;p&gt;協同產品設計=computer,network,tools,project&lt;/p&gt;
+
+&lt;p&gt;工業4.0=客製化,體貼&lt;/p&gt;
+
+&lt;p&gt;設proxy=proxy.mde.tw 3128&lt;/p&gt;
+
+&lt;p&gt;近端裝pelican: pip install pelican&lt;/p&gt;
+
+ &lt;/script&gt;
+&lt;/section&gt;	
+
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;img src="http://i.imgur.com/sRuXkDr.png" width="50%" height="50%"&gt;
+ &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+
+
+
+    &lt;/script&gt;
+&lt;/section&gt;	
+
+
+
+&lt;/section&gt;
+&lt;section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+######2016.10.13
+
+
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+						
+</t>
+<t tx="amd.20161004105131.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+######2016.09.29
+
+&lt;img src="http://i.imgur.com/NwZNSUZ.jpg" width="50%" height="50%"&gt;
+
+
+    &lt;/script&gt;
+&lt;/section&gt;	
 </t>
 <t tx="amd.20161004105716.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
+參考的連結https://blog.longwin.com.tw/2015/05/git-submodule-add-remove-2015/
+
     &lt;/script&gt;
 &lt;/section&gt;
 
-
-						
 </t>
-<t tx="amd.20161004105716.2"># 融入協同設計
-
-如何融入協同產品設計?
-
-### 1. 了解電腦 (CD1, Computer)
-### 2. 了解網路 (CD2, Network)
-### 3. 了解協同設計適用之軟硬體工具 (CD3, Tools)
-### 4. 執行協同專案 (CD4, Project)
+<t tx="amd.20161004105716.2">
 
 
-</t>
-<t tx="amd.20161004112026.1">&lt;section data-markdown&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
-@others
+## 刪除指令:git rm -rf
+
+</t>
+<t tx="amd.20161004112026.1">
     &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="amd.20161004112026.2">## 電腦輔助設計實習課程
-
-電腦輔助設計實習的教學主題:
-
-  * CC1-自學能力 (Git, Github, Python)
-  * CC2-程式能力 (Python 機構模擬運算)
-  * SP1-口語表達 (自拍投影片 on Vimeo and Youtube)
-  * P2-文字表達 (Wiki 與 Blog on Github Pages)
-  * SP3-2D 表達 (2D 零件工程圖)
-  * SP4-3D 表達 (自拍操作影片, Solvespace, OnShape)
-  * SP5-理論分析 (四連桿, NutCracker, 3D printer 機構分析)
-  * SP6-實體模型 (3D 列印, 機構組立)
-  * CD3-協同工具 (Git, Leo Editor 與 Github)
-  * CD4-協同專案 (OnShape 協同設計專案)
-
-</t>
-<t tx="amd.20161004171423.1">&lt;section data-markdown&gt;
+@others
     &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
+
     &lt;/script&gt;
 &lt;/section&gt;
 
-
-
-						
 </t>
-<t tx="amd.20161004171423.2"># 數學符號與方程式
+<t tx="amd.20161004112026.2">&lt;/section&gt;
 
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;充實的過日子&lt;/p&gt;
 
-$$I = \int \rho R^{2} dV$$
+
+
+
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
 </t>
+<t tx="amd.20161004171423.1">@others
+</t>
+<t tx="amd.20161004171423.2"></t>
 <t tx="leo.20151212173315.1"></t>
 <t tx="leo.20151212173315.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -755,5 +928,1621 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 
 DEFAULT_DATE = 'fs'</t>
 <t tx="leo.20161012154427.1"></t>
+<t tx="leo.20170108131157.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170108131157.100">&lt;section&gt;
+    &lt;h2&gt;Fantastic Ordered List&lt;/h2&gt;
+    &lt;ol&gt;
+    &lt;li&gt;One is smaller than...&lt;/li&gt;
+    &lt;li&gt;Two is smaller than...&lt;/li&gt;
+    &lt;li&gt;Three!&lt;/li&gt;
+    &lt;/ol&gt;
+&lt;/section&gt;
+
+
+					
+</t>
+<t tx="leo.20170108131157.101"></t>
+<t tx="leo.20170108131157.102">(uncached) amd.20161004083800.158
+Diff...
++ &lt;section&gt;
++     &lt;h2&gt;Export to PDF&lt;/h2&gt;
++     &lt;p&gt;
++     Presentations can be &lt;a href="https://github.com/hakimel/reveal.js#pdf-export"&gt;exported to PDF&lt;/a&gt;, here's an example:
++     &lt;/p&gt;	
++     &lt;iframe data-src="https://www.slideshare.net/slideshow/embed_code/42840540" width="445" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
++ &lt;/section&gt;				
+</t>
+<t tx="leo.20170108131157.103">&lt;section&gt;
+    &lt;h2&gt;Export to PDF&lt;/h2&gt;
+    &lt;p&gt;
+    Presentations can be &lt;a href="https://github.com/hakimel/reveal.js#pdf-export"&gt;exported to PDF&lt;/a&gt;, here's an example:
+    &lt;/p&gt;	
+    &lt;iframe data-src="https://www.slideshare.net/slideshow/embed_code/42840540" width="445" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
+&lt;/section&gt;				
+</t>
+<t tx="leo.20170108131157.104"></t>
+<t tx="leo.20170108131157.105">(uncached) amd.20161004083800.162
+Diff...
++ &lt;section&gt;
++ &lt;h2&gt;Global State&lt;/h2&gt;
++ &lt;p&gt;
++ Set &lt;code&gt;data-state="something"&lt;/code&gt; on a slide and 
++ &lt;code&gt;"something"&lt;/code&gt;
++ will be added as a class to the document element when the slide is open. This lets you
++ apply broader style changes, like switching the page background.
++ &lt;/p&gt;
++ &lt;/section&gt;
++ 
++ 		
+</t>
+<t tx="leo.20170108131157.106">&lt;section&gt;
+&lt;h2&gt;Global State&lt;/h2&gt;
+&lt;p&gt;
+Set &lt;code&gt;data-state="something"&lt;/code&gt; on a slide and 
+&lt;code&gt;"something"&lt;/code&gt;
+will be added as a class to the document element when the slide is open. This lets you
+apply broader style changes, like switching the page background.
+&lt;/p&gt;
+&lt;/section&gt;
+
+		
+</t>
+<t tx="leo.20170108131157.107"></t>
+<t tx="leo.20170108131157.108">(uncached) amd.20161004083800.166
+Diff...
++ &lt;section data-state="customevent"&gt;	
++     &lt;h2&gt;State Events&lt;/h2&gt;
++     &lt;p&gt;
++     Additionally custom events can be triggered on a per slide basis by binding to the &lt;code&gt;data-state&lt;/code&gt; name.
++     &lt;/p&gt;
++     &lt;pre&gt;
++         &lt;code class="javascript" data-trim contenteditable style="font-size: 18px;"&gt;
++         Reveal.addEventListener( 'customevent', function() {
++             console.log( '"customevent" has fired' );
++         } );
++         &lt;/code&gt;
++     &lt;/pre&gt;
++ &lt;/section&gt;					
+</t>
+<t tx="leo.20170108131157.109">&lt;section data-state="customevent"&gt;	
+    &lt;h2&gt;State Events&lt;/h2&gt;
+    &lt;p&gt;
+    Additionally custom events can be triggered on a per slide basis by binding to the &lt;code&gt;data-state&lt;/code&gt; name.
+    &lt;/p&gt;
+    &lt;pre&gt;
+        &lt;code class="javascript" data-trim contenteditable style="font-size: 18px;"&gt;
+        Reveal.addEventListener( 'customevent', function() {
+            console.log( '"customevent" has fired' );
+        } );
+        &lt;/code&gt;
+    &lt;/pre&gt;
+&lt;/section&gt;					
+</t>
+<t tx="leo.20170108131157.11">
+	&lt;section data-markdown&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170108131157.110"></t>
+<t tx="leo.20170108131157.12">(uncached) amd.20161004104641.2
+Diff...
++ # 機械設計主題教學
+-     &lt;script type="text/template"&gt;
+- ###2016.09.15
+  
++ ### 1. 強化創造能力 
++ (Creative Competencies, CC1-3)
++ ### 2. 熟習六種表達 
++ (Six Presentation Methods, SP1-6)
++ ### 3. 融入協同設計 
++ (Collaborative Designs, CD1-4)
+  
+- 
+</t>
+<t tx="leo.20170108131157.13"># 機械設計主題教學
+
+### 1. 強化創造能力 
+(Creative Competencies, CC1-3)
+### 2. 熟習六種表達 
+(Six Presentation Methods, SP1-6)
+### 3. 融入協同設計 
+(Collaborative Designs, CD1-4)
+
+</t>
+<t tx="leo.20170108131157.14">    &lt;script type="text/template"&gt;
+###2016.09.15
+
+
+
+</t>
+<t tx="leo.20170108131157.15">(uncached) amd.20161004104904.1
+Diff...
+- &lt;/section&gt;
+- &lt;section&gt;
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
+  @others
+- 
+      &lt;/script&gt;
+  &lt;/section&gt;
+  
+  
+- 
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- 
+- 
+- 
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 
+- 
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- &lt;p&gt;1.先到 https://github.com/mdecourse 的 2016cadp 按 Fork&lt;/p&gt;
+- 
+- &lt;p&gt;2.在自己的github帳號創立一個 2016fallcadp_hw倉儲 把最下面的 Add.gitignore輸入 Python Add a license輸入 Agpl&lt;/p&gt;
+- 
+- &lt;p&gt;3.在 2016fallcadp_hw倉儲 建立gh-pages分支&lt;/p&gt;
+- 
+- &lt;p&gt;4.按上方的一個setting-branches-選擇gh-pages&lt;/p&gt;
+- 
+- &lt;p&gt;5.在系上的電腦 輸入 140.130.17.17/2016fall 下載近端的python&lt;/p&gt;
+- 
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- &lt;p&gt;6.在自己的帳號建立 40423107.github.io 說明打 my home page 把最下面的 Add.gitignore輸入 Python Add a license輸入 Agpl&lt;/p&gt;
+- 
+- &lt;p&gt;7.在 40423107.github.io倉儲的左上角有一個 Create new file點進去 新增40423107.github.io.index.html 就會有自己的網頁了&lt;/p&gt;
+- 
+- &lt;p&gt;8.進入 https://github.com/mdecourse/2016fallcadp/wiki 的上課筆記&lt;/p&gt;
+- 
+- &lt;p&gt;下載繪圖軟體練習零件繪製: http://solvespace.com/bracket.pl &lt;/p&gt;
+- 
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- 
+- 
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 
+  						
+</t>
+<t tx="leo.20170108131157.16">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170108131157.17">&lt;/section&gt;
+&lt;section&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;1.先到 https://github.com/mdecourse 的 2016cadp 按 Fork&lt;/p&gt;
+
+&lt;p&gt;2.在自己的github帳號創立一個 2016fallcadp_hw倉儲 把最下面的 Add.gitignore輸入 Python Add a license輸入 Agpl&lt;/p&gt;
+
+&lt;p&gt;3.在 2016fallcadp_hw倉儲 建立gh-pages分支&lt;/p&gt;
+
+&lt;p&gt;4.按上方的一個setting-branches-選擇gh-pages&lt;/p&gt;
+
+&lt;p&gt;5.在系上的電腦 輸入 140.130.17.17/2016fall 下載近端的python&lt;/p&gt;
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;6.在自己的帳號建立 40423107.github.io 說明打 my home page 把最下面的 Add.gitignore輸入 Python Add a license輸入 Agpl&lt;/p&gt;
+
+&lt;p&gt;7.在 40423107.github.io倉儲的左上角有一個 Create new file點進去 新增40423107.github.io.index.html 就會有自己的網頁了&lt;/p&gt;
+
+&lt;p&gt;8.進入 https://github.com/mdecourse/2016fallcadp/wiki 的上課筆記&lt;/p&gt;
+
+&lt;p&gt;下載繪圖軟體練習零件繪製: http://solvespace.com/bracket.pl &lt;/p&gt;
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20170108131157.18">(uncached) amd.20161004104904.2
+Diff...
++ # 強化創造能力
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ###2016.09.22
+  
+- ######創好自己的2016fallcadp_hw
++ 創造力至少包含三種元素:
++ ### 1. 自學能力 (CC1, Self-learning)
++ ### 2. 程式能力 (CC2, Programming)
++ ### 3. 想像能力 (CC3, Imagination)
+  
+- 
+</t>
+<t tx="leo.20170108131157.19"># 強化創造能力
+
+創造力至少包含三種元素:
+### 1. 自學能力 (CC1, Self-learning)
+### 2. 程式能力 (CC2, Programming)
+### 3. 想像能力 (CC3, Imagination)
+
+</t>
+<t tx="leo.20170108131157.2"></t>
+<t tx="leo.20170108131157.20">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+###2016.09.22
+
+######創好自己的2016fallcadp_hw
+
+
+</t>
+<t tx="leo.20170108131157.21">(uncached) amd.20161004105131.1
+Diff...
+- &lt;/section&gt;
+- &lt;section&gt;
+- @others
+- 
+  &lt;section data-markdown&gt;
+      &lt;script type="text/template"&gt;
++ @others
+- &lt;p&gt;先到 https://github.com/mdecourse/2016fallcadp/wiki/Solvespace_Parts 了解這篇文章&lt;/p&gt;
+- &lt;p&gt;名詞定義&lt;/p&gt;
+- &lt;p&gt;diameter直徑 oriented定位 respectively分別 plane面 equivalent相當地 construct建構 Zoom放大&lt;/p&gt;
+- 
+- &lt;p&gt;mounting套、掛 axes軸(s) Initially原來 empty空 extruding擠壓 gusset扣板 sketch草圖 profile輪廓&lt;/p&gt;
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- &lt;p&gt;segments段 radiused圓角 automatically自動 consists由 coincident一致 achieve達成 horizontal橫&lt;/p&gt;
+- 
+- &lt;p&gt;references引用 modified改性 hover徘徊 perpendicular垂直 transparent透明&lt;/p&gt;
+- &lt;/script&gt;
+- &lt;/section&gt;
+- 
+- 
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- 
+- 
+- 		
+- 
+- 
+      &lt;/script&gt;
+  &lt;/section&gt;
+  
+  
+- &lt;/section&gt;
+- &lt;section&gt;
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ######2016.10.06
+- 
+- 
+- 
+-     &lt;/script&gt;
+- &lt;/section&gt;		
+- 
+- 
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- 
+- &lt;p&gt;機械設計系的目標:&lt;/p&gt;
+- 
+- &lt;p&gt;培養具創造力 精通表達&lt;/p&gt;
+- 
+- &lt;p&gt;能積極配合 偕同產品設計流程的機械設計工程師&lt;/p&gt;
+- 
+- &lt;p&gt;創造力=自學力+程式力+想像力&lt;/p&gt;
+- 
+-  &lt;/script&gt;
+- &lt;/section&gt;	
+- 
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- &lt;p&gt;表達=oral,text,2D,3D,analytical,physical&lt;/p&gt;
+- 
+- &lt;p&gt;協同產品設計=computer,network,tools,project&lt;/p&gt;
+- 
+- &lt;p&gt;工業4.0=客製化,體貼&lt;/p&gt;
+- 
+- &lt;p&gt;設proxy=proxy.mde.tw 3128&lt;/p&gt;
+- 
+- &lt;p&gt;近端裝pelican: pip install pelican&lt;/p&gt;
+- 
+-  &lt;/script&gt;
+- &lt;/section&gt;	
+- 
+- 
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- &lt;img src="http://i.imgur.com/sRuXkDr.png" width="50%" height="50%"&gt;
+-  &lt;/script&gt;
+- &lt;/section&gt;
+- 
+- 
+- 
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- 
+- 
+- 
+-     &lt;/script&gt;
+- &lt;/section&gt;	
+- 
+- 
+- 
+- &lt;/section&gt;
+- &lt;section&gt;
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ######2016.10.13
+- 
+- 
+- 
+- 
+-     &lt;/script&gt;
+- &lt;/section&gt;
+  						
+</t>
+<t tx="leo.20170108131157.22">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170108131157.23">&lt;/section&gt;
+&lt;section&gt;
+@others
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;先到 https://github.com/mdecourse/2016fallcadp/wiki/Solvespace_Parts 了解這篇文章&lt;/p&gt;
+&lt;p&gt;名詞定義&lt;/p&gt;
+&lt;p&gt;diameter直徑 oriented定位 respectively分別 plane面 equivalent相當地 construct建構 Zoom放大&lt;/p&gt;
+
+&lt;p&gt;mounting套、掛 axes軸(s) Initially原來 empty空 extruding擠壓 gusset扣板 sketch草圖 profile輪廓&lt;/p&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;segments段 radiused圓角 automatically自動 consists由 coincident一致 achieve達成 horizontal橫&lt;/p&gt;
+
+&lt;p&gt;references引用 modified改性 hover徘徊 perpendicular垂直 transparent透明&lt;/p&gt;
+&lt;/script&gt;
+&lt;/section&gt;
+
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+
+
+		
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+&lt;/section&gt;
+&lt;section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+######2016.10.06
+
+
+
+    &lt;/script&gt;
+&lt;/section&gt;		
+
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+
+&lt;p&gt;機械設計系的目標:&lt;/p&gt;
+
+&lt;p&gt;培養具創造力 精通表達&lt;/p&gt;
+
+&lt;p&gt;能積極配合 偕同產品設計流程的機械設計工程師&lt;/p&gt;
+
+&lt;p&gt;創造力=自學力+程式力+想像力&lt;/p&gt;
+
+ &lt;/script&gt;
+&lt;/section&gt;	
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;表達=oral,text,2D,3D,analytical,physical&lt;/p&gt;
+
+&lt;p&gt;協同產品設計=computer,network,tools,project&lt;/p&gt;
+
+&lt;p&gt;工業4.0=客製化,體貼&lt;/p&gt;
+
+&lt;p&gt;設proxy=proxy.mde.tw 3128&lt;/p&gt;
+
+&lt;p&gt;近端裝pelican: pip install pelican&lt;/p&gt;
+
+ &lt;/script&gt;
+&lt;/section&gt;	
+
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;img src="http://i.imgur.com/sRuXkDr.png" width="50%" height="50%"&gt;
+ &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+
+
+
+    &lt;/script&gt;
+&lt;/section&gt;	
+
+
+
+&lt;/section&gt;
+&lt;section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+######2016.10.13
+
+
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+						
+</t>
+<t tx="leo.20170108131157.24">(uncached) amd.20161004105131.2
+Diff...
++ # 機械設計六種表達
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ######2016.09.29
+  
+- &lt;img src="http://i.imgur.com/NwZNSUZ.jpg" width="50%" height="50%"&gt;
++ ### 1. 口語表達 (SP1, Oral Presentation)
++ ### 2. 文字表達 (SP2, Text Presentation)
++ ### 3. 2D 表達 (SP3, 2D Presentation)
++ ### 4. 3D 表達 (SP4, 3D Presentation)
++ ### 5. 理論表達 (SP5, Analytical Presentation)
++ ### 6. 實體表達 (SP6, Physical Presentation)
+  
+- 
+-     &lt;/script&gt;
+- &lt;/section&gt;	
+</t>
+<t tx="leo.20170108131157.25"># 機械設計六種表達
+
+### 1. 口語表達 (SP1, Oral Presentation)
+### 2. 文字表達 (SP2, Text Presentation)
+### 3. 2D 表達 (SP3, 2D Presentation)
+### 4. 3D 表達 (SP4, 3D Presentation)
+### 5. 理論表達 (SP5, Analytical Presentation)
+### 6. 實體表達 (SP6, Physical Presentation)
+
+</t>
+<t tx="leo.20170108131157.26">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+######2016.09.29
+
+&lt;img src="http://i.imgur.com/NwZNSUZ.jpg" width="50%" height="50%"&gt;
+
+
+    &lt;/script&gt;
+&lt;/section&gt;	
+</t>
+<t tx="leo.20170108131157.27">(uncached) amd.20161004105716.1
+Diff...
+  &lt;section data-markdown&gt;
+      &lt;script type="text/template"&gt;
+  @others
+- 參考的連結https://blog.longwin.com.tw/2015/05/git-submodule-add-remove-2015/
+- 
+      &lt;/script&gt;
+  &lt;/section&gt;
+  
++ 
++ 						
+</t>
+<t tx="leo.20170108131157.28">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170108131157.29">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+參考的連結https://blog.longwin.com.tw/2015/05/git-submodule-add-remove-2015/
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170108131157.3">(uncached) amd.20161004083800.5
+Diff...
+  &lt;body&gt;
+  @others
+  &lt;script src="https://cad-lab.github.io/cadlab_data/reveal/lib/js/head.min.js"&gt;&lt;/script&gt;
+  &lt;script src="https://cad-lab.github.io/cadlab_data/reveal/js/reveal.js"&gt;&lt;/script&gt;
+  &lt;script&gt;
+          // More info https://github.com/hakimel/reveal.js#configuration
+          Reveal.initialize({
+              controls: true,
+              progress: true,
+              history: true,
+              center: true,
++ 
+              transition: 'slide', // none/fade/slide/convex/concave/zoom
++ 
+              // More info https://github.com/hakimel/reveal.js#dependencies
+              dependencies: [
+                  { src: 'https://cad-lab.github.io/cadlab_data/reveal/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+                  { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                  { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                  { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+                  { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/zoom-js/zoom.js', async: true },
+                  { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/notes/notes.js', async: true },
+                  { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/math/math.js', async: true }
+              ]
+          });
+  &lt;/script&gt;
+  &lt;/body&gt;
+</t>
+<t tx="leo.20170108131157.30">(uncached) amd.20161004105716.2
+Diff...
++ # 融入協同設計
++ 
++ 如何融入協同產品設計?
++ 
++ ### 1. 了解電腦 (CD1, Computer)
++ ### 2. 了解網路 (CD2, Network)
++ ### 3. 了解協同設計適用之軟硬體工具 (CD3, Tools)
++ ### 4. 執行協同專案 (CD4, Project)
+  
+  
+- 
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ## 刪除指令:git rm -rf
+- 
+</t>
+<t tx="leo.20170108131157.31"># 融入協同設計
+
+如何融入協同產品設計?
+
+### 1. 了解電腦 (CD1, Computer)
+### 2. 了解網路 (CD2, Network)
+### 3. 了解協同設計適用之軟硬體工具 (CD3, Tools)
+### 4. 執行協同專案 (CD4, Project)
+
+
+</t>
+<t tx="leo.20170108131157.32">
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## 刪除指令:git rm -rf
+
+</t>
+<t tx="leo.20170108131157.33">(uncached) amd.20161004101327.1
+Diff...
+-     &lt;script type="text/template"&gt;
+- &lt;img src="http://i.imgur.com/vLLN4Dg.jpg" width="50%" height="50%"&gt;
+- @others
+  &lt;section data-markdown&gt;
+      &lt;script type="text/template"&gt;
+- ######2016.10.20
++ @others
++     &lt;/script&gt;
++ &lt;/section&gt;
+  
+  
++ 						
+</t>
+<t tx="leo.20170108131157.34">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170108131157.35">    &lt;script type="text/template"&gt;
+&lt;img src="http://i.imgur.com/vLLN4Dg.jpg" width="50%" height="50%"&gt;
+@others
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+######2016.10.20
+
+
+</t>
+<t tx="leo.20170108131157.36">(uncached) amd.20161004101327.2
+Diff...
++ ## 使用 iframe 導入影片
+  
++ ### Markdown 沒有 iframe
++ 
++ &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- &lt;/section&gt;
+- &lt;section&gt;
+</t>
+<t tx="leo.20170108131157.37">## 使用 iframe 導入影片
+
+### Markdown 沒有 iframe
+
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170108131157.38">
+    &lt;/script&gt;
+&lt;/section&gt;
+&lt;/section&gt;
+&lt;section&gt;
+</t>
+<t tx="leo.20170108131157.39">(uncached) amd.20161004112026.1
+Diff...
+- 
+-     &lt;/script&gt;
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
+  @others
+-     &lt;script type="text/template"&gt;
+- 
+      &lt;/script&gt;
+  &lt;/section&gt;
+  
++ 
++ 						
+</t>
+<t tx="leo.20170108131157.4">&lt;body&gt;
+@others
+&lt;script src="https://cad-lab.github.io/cadlab_data/reveal/lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="https://cad-lab.github.io/cadlab_data/reveal/js/reveal.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+        // More info https://github.com/hakimel/reveal.js#configuration
+        Reveal.initialize({
+            controls: true,
+            progress: true,
+            history: true,
+            center: true,
+
+            transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+            // More info https://github.com/hakimel/reveal.js#dependencies
+            dependencies: [
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/zoom-js/zoom.js', async: true },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/notes/notes.js', async: true },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/math/math.js', async: true }
+            ]
+        });
+&lt;/script&gt;
+&lt;/body&gt;
+</t>
+<t tx="leo.20170108131157.40">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170108131157.41">
+    &lt;/script&gt;
+@others
+    &lt;script type="text/template"&gt;
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170108131157.42">(uncached) amd.20161004112026.2
+Diff...
+- &lt;/section&gt;
++ ## 電腦輔助設計實習課程
+  
++ 電腦輔助設計實習的教學主題:
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- &lt;p&gt;充實的過日子&lt;/p&gt;
+  
++   * CC1-自學能力 (Git, Github, Python)
++   * CC2-程式能力 (Python 機構模擬運算)
++   * SP1-口語表達 (自拍投影片 on Vimeo and Youtube)
++   * P2-文字表達 (Wiki 與 Blog on Github Pages)
++   * SP3-2D 表達 (2D 零件工程圖)
++   * SP4-3D 表達 (自拍操作影片, Solvespace, OnShape)
++   * SP5-理論分析 (四連桿, NutCracker, 3D printer 機構分析)
++   * SP6-實體模型 (3D 列印, 機構組立)
++   * CD3-協同工具 (Git, Leo Editor 與 Github)
++   * CD4-協同專案 (OnShape 協同設計專案)
+  
+- 
+- 
+- 
+- 
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 
+- &lt;section data-markdown&gt;
+</t>
+<t tx="leo.20170108131157.43">## 電腦輔助設計實習課程
+
+電腦輔助設計實習的教學主題:
+
+  * CC1-自學能力 (Git, Github, Python)
+  * CC2-程式能力 (Python 機構模擬運算)
+  * SP1-口語表達 (自拍投影片 on Vimeo and Youtube)
+  * P2-文字表達 (Wiki 與 Blog on Github Pages)
+  * SP3-2D 表達 (2D 零件工程圖)
+  * SP4-3D 表達 (自拍操作影片, Solvespace, OnShape)
+  * SP5-理論分析 (四連桿, NutCracker, 3D printer 機構分析)
+  * SP6-實體模型 (3D 列印, 機構組立)
+  * CD3-協同工具 (Git, Leo Editor 與 Github)
+  * CD4-協同專案 (OnShape 協同設計專案)
+
+</t>
+<t tx="leo.20170108131157.44">&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;充實的過日子&lt;/p&gt;
+
+
+
+
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+</t>
+<t tx="leo.20170108131157.45">(uncached) amd.20161004083800.15
+Diff...
+- 
+- 
++ &lt;section&gt;
++     &lt;h2&gt;github_intro&lt;/h2&gt;
++     &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
++     &lt;p&gt;
++     &lt;a href="https://vimeo.com/183950627"&gt;2016-09-23_cpb_github_intro&lt;/a&gt; from 
++     &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程&lt;/a&gt; on 
++     &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.
++     &lt;/p&gt;
+  &lt;/section&gt;
+- &lt;section&gt;
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ######2016.10.27
+- 
+- 
+</t>
+<t tx="leo.20170108131157.46">&lt;section&gt;
+    &lt;h2&gt;github_intro&lt;/h2&gt;
+    &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;p&gt;
+    &lt;a href="https://vimeo.com/183950627"&gt;2016-09-23_cpb_github_intro&lt;/a&gt; from 
+    &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程&lt;/a&gt; on 
+    &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.
+    &lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20170108131157.47">
+
+&lt;/section&gt;
+&lt;section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+######2016.10.27
+
+
+</t>
+<t tx="leo.20170108131157.48">(uncached) amd.20161004083800.21
+Diff...
+- 
++ &lt;section&gt;
++     &lt;h2&gt;fork_pull_requests&lt;/h2&gt;
++     &lt;iframe src="https://player.vimeo.com/video/183954581" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
++     &lt;p&gt;
++     &lt;a href="https://vimeo.com/183954581"&gt;2016-09-23_fork_pull_requests&lt;/a&gt; from 
++     &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程&lt;/a&gt; on 
++     &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.
+-     &lt;/script&gt;
+?       ---- -
++     &lt;/p&gt;
+  &lt;/section&gt;
+- 
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- &lt;p&gt;今天學習用 solve path畫四連桿機構&lt;/p&gt;
+- 
+- &lt;p&gt;其實還蠻有趣的呢&lt;/p&gt;
+</t>
+<t tx="leo.20170108131157.49">&lt;section&gt;
+    &lt;h2&gt;fork_pull_requests&lt;/h2&gt;
+    &lt;iframe src="https://player.vimeo.com/video/183954581" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;p&gt;
+    &lt;a href="https://vimeo.com/183954581"&gt;2016-09-23_fork_pull_requests&lt;/a&gt; from 
+    &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程&lt;/a&gt; on 
+    &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.
+    &lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20170108131157.5">&lt;body&gt;
+@others
+&lt;script src="https://cad-lab.github.io/cadlab_data/reveal/lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="https://cad-lab.github.io/cadlab_data/reveal/js/reveal.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+        // More info https://github.com/hakimel/reveal.js#configuration
+        Reveal.initialize({
+            controls: true,
+            progress: true,
+            history: true,
+            center: true,
+            transition: 'slide', // none/fade/slide/convex/concave/zoom
+            // More info https://github.com/hakimel/reveal.js#dependencies
+            dependencies: [
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/zoom-js/zoom.js', async: true },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/notes/notes.js', async: true },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/math/math.js', async: true }
+            ]
+        });
+&lt;/script&gt;
+&lt;/body&gt;
+</t>
+<t tx="leo.20170108131157.50">
+    &lt;/script&gt;
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;今天學習用 solve path畫四連桿機構&lt;/p&gt;
+
+&lt;p&gt;其實還蠻有趣的呢&lt;/p&gt;
+</t>
+<t tx="leo.20170108131157.51">(uncached) amd.20161004083800.27
+Diff...
+- 
+- &lt;p&gt;可以利用一個很簡單的程式&lt;/p&gt;
++ &lt;!-- Example of nested vertical slides --&gt;
++ &lt;section&gt;
+  @others
+  &lt;/section&gt;
+</t>
+<t tx="leo.20170108131157.52">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170108131157.53">
+&lt;p&gt;可以利用一個很簡單的程式&lt;/p&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170108131157.54">(uncached) amd.20161004101902.1
+Diff...
+- 
+- &lt;p&gt;就可以學習到四連桿作動的軌跡!!&lt;/p&gt;
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
+  @others
+-     
+- 
+      &lt;/script&gt;
+  &lt;/section&gt;
+  
++ 
++ 						
+</t>
+<t tx="leo.20170108131157.55">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170108131157.56">
+&lt;p&gt;就可以學習到四連桿作動的軌跡!!&lt;/p&gt;
+@others
+    
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170108131157.57">(uncached) amd.20161004101902.2
+Diff...
++ ## 使用 iframe 導入影片
+-     &lt;/script&gt;
+- &lt;/section&gt;
+  
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
++ ### Markdown 沒有 iframe
++ 
++ &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170108131157.58">## 使用 iframe 導入影片
+
+### Markdown 沒有 iframe
+
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170108131157.59">    &lt;/script&gt;
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+</t>
+<t tx="leo.20170108131157.6">(uncached) amd.20161004104820.1
+Diff...
+  &lt;section&gt;
+  @others
+- &lt;section data-markdown&gt;
++ &lt;/section&gt;
+</t>
+<t tx="leo.20170108131157.60">(uncached) amd.20161004085439.1
+Diff...
++ &lt;section&gt;
++     &lt;h2&gt;Vertical Slides&lt;/h2&gt;
++     &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
++     &lt;p&gt;
++     Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.
++     &lt;/p&gt;
++     &lt;br&gt;
++     &lt;a href="#" class="navigate-down"&gt;
++         &lt;img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow"&gt;
++     &lt;/a&gt;
+  &lt;/section&gt;
+- &lt;section&gt;
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ######2016.11.03
+- &lt;p&gt;自評週&lt;/p&gt;
+- 
+- 
+- 
+- 
+-     &lt;/script&gt;
+</t>
+<t tx="leo.20170108131157.61">&lt;section&gt;
+    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
+    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
+    &lt;p&gt;
+    Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.
+    &lt;/p&gt;
+    &lt;br&gt;
+    &lt;a href="#" class="navigate-down"&gt;
+        &lt;img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow"&gt;
+    &lt;/a&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20170108131157.62">&lt;/section&gt;
+&lt;section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+######2016.11.03
+&lt;p&gt;自評週&lt;/p&gt;
+
+
+
+
+    &lt;/script&gt;
+</t>
+<t tx="leo.20170108131157.63">(uncached) amd.20161004083800.47
+Diff...
+- 
+- 
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
+  @others
+- 
+- 
+      &lt;/script&gt;
+  &lt;/section&gt;
+  
++ 
++ 						
+</t>
+<t tx="leo.20170108131157.64">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170108131157.65">
+
+@others
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170108131157.66">(uncached) amd.20161004092208.1
+Diff...
++ ## Markdown support
++ 
++ Write content using inline or external Markdown.
++ Instructions and more info available in the [readme](https://github.com/hakimel/reveal.js#markdown).
++ 
++ ```
+  &lt;section data-markdown&gt;
++   ## Markdown support
+-     &lt;script type="text/template"&gt;
+- &lt;p&gt;今天要自評 &lt;/p&gt;
+  
++   Write content using inline or external Markdown.
++   Instructions and more info available in the [readme](https://github.com/hakimel/reveal.js#markdown).
+- 
+- 
+-     &lt;/script&gt;
+  &lt;/section&gt;
++ ```
+- 
+- 
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- 
+</t>
+<t tx="leo.20170108131157.67">## Markdown support
+
+Write content using inline or external Markdown.
+Instructions and more info available in the [readme](https://github.com/hakimel/reveal.js#markdown).
+
+```
+&lt;section data-markdown&gt;
+  ## Markdown support
+
+  Write content using inline or external Markdown.
+  Instructions and more info available in the [readme](https://github.com/hakimel/reveal.js#markdown).
+&lt;/section&gt;
+```
+</t>
+<t tx="leo.20170108131157.68">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;今天要自評 &lt;/p&gt;
+
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+
+</t>
+<t tx="leo.20170108131157.69">(uncached) amd.20161004094125.1
+Diff...
+- 
+- &lt;/section&gt;
+- &lt;section&gt;
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
++ &lt;!-- 請注意, @others 不可以內縮 --&gt;
+  @others
+      &lt;/script&gt;
+  &lt;/section&gt;
+  
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+  
++ 
++ 						
+</t>
+<t tx="leo.20170108131157.7">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170108131157.70">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170108131157.71">
+&lt;/section&gt;
+&lt;section&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+
+</t>
+<t tx="leo.20170108131157.72">(uncached) amd.20161004094125.2
+Diff...
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ######2016.11.09
++ ## 利用 Markdown 寫投影片
++ 以下利用 Markdown 格式展示 Python 程式碼:
++ ```
+  @language python
+- &lt;p&gt;ONSHAPE圖&lt;/p&gt;
++ # use threading and subprocess to threading the make process
++ import os
++ import subprocess
++ import threading
+  
++ def domake():
++     
++     path = "../exposed/api/exposed"
++     ubuntu = "../Ubuntu"
++     
++     # create obj path
++     
++     if not os.path.exists(path+"/../obj"):
++         os.makedirs(path+"/../obj")
++     
++     subprocess.call(["make", "clean"], cwd=path)
++     subprocess.call("make", cwd=path)
++     subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
++     subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
++     
++ make = threading.Thread(target=domake)
++ make.start()
++ ```
+- 
+- 
+- 
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 
+- 
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- &lt;p&gt;今天畫圖 &lt;/p&gt;
+- 
+- 
+- 
+- 
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 
+- 
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- 
+</t>
+<t tx="leo.20170108131157.73">## 利用 Markdown 寫投影片
+以下利用 Markdown 格式展示 Python 程式碼:
+```
+@language python
+# use threading and subprocess to threading the make process
+import os
+import subprocess
+import threading
+
+def domake():
+    
+    path = "../exposed/api/exposed"
+    ubuntu = "../Ubuntu"
+    
+    # create obj path
+    
+    if not os.path.exists(path+"/../obj"):
+        os.makedirs(path+"/../obj")
+    
+    subprocess.call(["make", "clean"], cwd=path)
+    subprocess.call("make", cwd=path)
+    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
+    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
+    
+make = threading.Thread(target=domake)
+make.start()
+```
+</t>
+<t tx="leo.20170108131157.74">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+######2016.11.09
+@language python
+&lt;p&gt;ONSHAPE圖&lt;/p&gt;
+
+
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;今天畫圖 &lt;/p&gt;
+
+
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+
+</t>
+<t tx="leo.20170108131157.75">(uncached) amd.20161004094800.1
+Diff...
+- 
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
++ &lt;!-- 請注意, @others 不可以內縮 --&gt;
++ @others
+      &lt;/script&gt;
+  &lt;/section&gt;
+- @others
++ 
++ 
++ 
++ 						
+</t>
+<t tx="leo.20170108131157.76">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170108131157.77">
+    &lt;/script&gt;
+&lt;/section&gt;
+@others
+</t>
+<t tx="leo.20170108131157.78">(uncached) amd.20161004094800.2
+Diff...
++ # h1 標題
+  
++ 段落用空白行隔開
+  
++ 第2段. *斜體*, **粗體**, 條列:
+  
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
++   * 第1項
++   * 第2項
++   * 第3項
+  
++ 上述條列, 星號前有3個空白
+  
++ &gt; 引言則前面加上大於的符號
++ &gt; 其中也可以包含空白行
++ &gt;
++ &gt; 這是最後一行
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 
+- 
+- 
+- 
+- 
+- 
+- &lt;/section&gt;
+</t>
+<t tx="leo.20170108131157.79"># h1 標題
+
+段落用空白行隔開
+
+第2段. *斜體*, **粗體**, 條列:
+
+  * 第1項
+  * 第2項
+  * 第3項
+
+上述條列, 星號前有3個空白
+
+&gt; 引言則前面加上大於的符號
+&gt; 其中也可以包含空白行
+&gt;
+&gt; 這是最後一行
+</t>
+<t tx="leo.20170108131157.8">&lt;section&gt;
+@others
+&lt;section data-markdown&gt;
+</t>
+<t tx="leo.20170108131157.80">
+
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+
+
+&lt;/section&gt;
+</t>
+<t tx="leo.20170108131157.81">(uncached) amd.20161004100003.1
+Diff...
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
++ &lt;!-- 請注意, @others 不可以內縮 --&gt;
+  @others
++     &lt;/script&gt;
++ &lt;/section&gt;
++ 
++ 
++ 
++ 						
+</t>
+<t tx="leo.20170108131157.82">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170108131157.83">@others
+</t>
+<t tx="leo.20170108131157.84">(uncached) amd.20161004100003.2
+Diff...
++ # 影像檔案引用
++ 
++ and images can be specified like so:
++ 
++ ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+</t>
+<t tx="leo.20170108131157.85"># 影像檔案引用
+
+and images can be specified like so:
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+</t>
+<t tx="leo.20170108131157.86"></t>
+<t tx="leo.20170108131157.87">(uncached) amd.20161004171423.1
+Diff...
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
++ &lt;!-- 請注意, @others 不可以內縮 --&gt;
+  @others
++     &lt;/script&gt;
++ &lt;/section&gt;
++ 
++ 
++ 
++ 						
+</t>
+<t tx="leo.20170108131157.88">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170108131157.89">@others
+</t>
+<t tx="leo.20170108131157.9">(uncached) amd.20161004104641.1
+Diff...
+- 
+- 	&lt;section data-markdown&gt;
+? -
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
+  @others
+      &lt;/script&gt;
+  &lt;/section&gt;
+  
+  
+  						
+</t>
+<t tx="leo.20170108131157.90">(uncached) amd.20161004171423.2
+Diff...
++ # 數學符號與方程式
++ 
++ Inline math equations go in like so: $\omega = d\phi / dt$. Display
++ math should get its own line and be put in in double-dollarsigns:
++ 
++ $$I = \int \rho R^{2} dV$$
+</t>
+<t tx="leo.20170108131157.91"># 數學符號與方程式
+
+Inline math equations go in like so: $\omega = d\phi / dt$. Display
+math should get its own line and be put in in double-dollarsigns:
+
+$$I = \int \rho R^{2} dV$$
+</t>
+<t tx="leo.20170108131157.92"></t>
+<t tx="leo.20170108131157.93">(uncached) amd.20161004083800.110
+Diff...
++ &lt;section&gt;
++     &lt;h2&gt;Pretty Code&lt;/h2&gt;
++     &lt;pre&gt;
++         &lt;code class="hljs" data-trim contenteditable&gt;
++         function linkify( selector ) {
++           if( supports3DTransforms ) {
++         
++             var nodes = document.querySelectorAll( selector );
++         
++             for( var i = 0, len = nodes.length; i &amp;lt; len; i++ ) {
++               var node = nodes[i];
++         
++               if( !node.className ) {
++                 node.className += ' roll';
++               }
++             }
++           }
++         }
++         &lt;/code&gt;
++     &lt;/pre&gt;
++     &lt;p&gt;
++     Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft/highlight/en/description/"&gt;highlight.js&lt;/a&gt;.
++     &lt;/p&gt;
++ &lt;/section&gt;
++ 			
+</t>
+<t tx="leo.20170108131157.94">&lt;section&gt;
+    &lt;h2&gt;Pretty Code&lt;/h2&gt;
+    &lt;pre&gt;
+        &lt;code class="hljs" data-trim contenteditable&gt;
+        function linkify( selector ) {
+          if( supports3DTransforms ) {
+        
+            var nodes = document.querySelectorAll( selector );
+        
+            for( var i = 0, len = nodes.length; i &amp;lt; len; i++ ) {
+              var node = nodes[i];
+        
+              if( !node.className ) {
+                node.className += ' roll';
+              }
+            }
+          }
+        }
+        &lt;/code&gt;
+    &lt;/pre&gt;
+    &lt;p&gt;
+    Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft/highlight/en/description/"&gt;highlight.js&lt;/a&gt;.
+    &lt;/p&gt;
+&lt;/section&gt;
+			
+</t>
+<t tx="leo.20170108131157.95"></t>
+<t tx="leo.20170108131157.96">(uncached) amd.20161004083800.115
+Diff...
++ &lt;section&gt;	
++     &lt;h2&gt;Marvelous List&lt;/h2&gt;
++     &lt;ul&gt;
++     &lt;li&gt;No order here&lt;/li&gt;
++     &lt;li&gt;Or here&lt;/li&gt;
++     &lt;li&gt;Or here&lt;/li&gt;
++     &lt;li&gt;Or here&lt;/li&gt;
++     &lt;/ul&gt;
++ &lt;/section&gt;
++ 
++ 					
+</t>
+<t tx="leo.20170108131157.97">&lt;section&gt;	
+    &lt;h2&gt;Marvelous List&lt;/h2&gt;
+    &lt;ul&gt;
+    &lt;li&gt;No order here&lt;/li&gt;
+    &lt;li&gt;Or here&lt;/li&gt;
+    &lt;li&gt;Or here&lt;/li&gt;
+    &lt;li&gt;Or here&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+
+					
+</t>
+<t tx="leo.20170108131157.98"></t>
+<t tx="leo.20170108131157.99">(uncached) amd.20161004083800.121
+Diff...
++ &lt;section&gt;
++     &lt;h2&gt;Fantastic Ordered List&lt;/h2&gt;
++     &lt;ol&gt;
++     &lt;li&gt;One is smaller than...&lt;/li&gt;
++     &lt;li&gt;Two is smaller than...&lt;/li&gt;
++     &lt;li&gt;Three!&lt;/li&gt;
++     &lt;/ol&gt;
++ &lt;/section&gt;
++ 
++ 
++ 					
+</t>
 </tnodes>
 </leo_file>
